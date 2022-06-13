@@ -14,4 +14,4 @@
 ### Challenges and Difficulties Encountered
 - We need some more information from Louise. Notably that we don't know Louise's goal so contextually it's hard to know if we should tell her to increase or decrease her goal to improve her success chance.
 - We could further breakdown the outcome vs goal groupings. There are still quite a few kickstarters in the $50000+ group.
-- Other charts showing break down outcome by country and break down by currency type could be intresting.
+- Other charts showing break down of outcome by country and break down by currency type could be intresting.
