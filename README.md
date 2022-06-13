@@ -3,7 +3,8 @@
 ### Asked to gain insight based on the given data set of over 4000 entertainment based fundraisers. Looking for trends that could improve the successfulness of our customer Louise's play "Fever."
 
 ### Analysis of Outcomes Based on Launch Date
-![image of Launch Date Chart](https://github.com/marveld21/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
+#### There appears to be a clear correlation with successful kickstarters launching in early summer and failed kickstarters launching in the early winter months. I insist that this is due to the general public having less disposable income around the holidays in November and December. 
+![image of Theater Outcomes by Launch Date](https://github.com/marveld21/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png "Theater Outcomes by Launch Date")
 ### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
