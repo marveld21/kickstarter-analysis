@@ -1,9 +1,9 @@
 # Analysis of Kickstarter Fundraisers
 
-### Asked to gain insight based on the given data set of over 4000 entertainment based fundraisers. Looking for trends that could improve the successfulness of our customer Louise's play "Fever"
+### Asked to gain insight based on the given data set of over 4000 entertainment based fundraisers. Looking for trends that could improve the successfulness of our customer Louise's play "Fever."
 
 ### Analysis of Outcomes Based on Launch Date
-
+![image of Launch Date Chart](https://github.com/marveld21/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 ### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
