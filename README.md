@@ -1,6 +1,6 @@
 # Analysis of Kickstarter Fundraisers
 
-### Asked to gain insight based on the given data set of over 4000 entertainment based fundraisers. Looking for trends that could improve the successfulness of our customer Louise's play "Fever."
+### I was asked to gain insight based on the given data set of over 4000 entertainment based fundraisers. Looking for trends that could improve the successfulness of our customer Louise's play "Fever."
 
 ### Analysis of Outcomes Based on Launch Date
 #### There appears to be a clear correlation with successful kickstarters launching in early summer and failed kickstarters launching in the early winter months. I insist that this is due to the general public having less disposable income around the holidays in November and December. 
