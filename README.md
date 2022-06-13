@@ -1,10 +1,6 @@
-# Kickstarting with Excel
+# Analysis of Kickstarter Fundraisers
 
-## Overview of Project
-
-### Purpose
-
-## Analysis and Challenges
+### Asked to gain insight based on the given data set of over 4000 entertainment based fundraisers. Looking for trends that could improve the successfulness of our customer Louise's play "Fever"
 
 ### Analysis of Outcomes Based on Launch Date
 
